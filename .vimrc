@@ -476,8 +476,8 @@ nnoremap <leader>cm  :<C-u>CocList         outline<cr>
 nnoremap <leader>ff  :Files<CR>
 nnoremap <leader>fp  :vsplit               $RC<CR>
 nnoremap <leader>fs  :w<CR>
-nnoremap <leader>gB  :Gblame<CR>
-nnoremap <leader>gg  :Gstatus<CR>
+nnoremap <leader>gB  :Git blame<CR>
+nnoremap <leader>gg  :Git<CR>
 nnoremap <leader>hrr :source               $RC<CR>
 nnoremap <leader>ht  :Colors<CR>
 nnoremap <leader>pf  :ProjectFiles<CR>
